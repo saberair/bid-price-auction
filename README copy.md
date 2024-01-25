@@ -27,3 +27,5 @@ npm test
     function documentation with an example
     seperated type file
     data structure choice for better performance and code complexity
+
+
